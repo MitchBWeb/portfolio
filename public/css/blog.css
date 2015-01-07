@@ -1,0 +1,11 @@
+#blog-holder h2{
+	margin-bottom:50px;
+}
+#article-holder{
+	margin-right:auto;
+	margin-left:auto;
+	width:90%;
+}
+.blog-info{
+	margin-top:10px;
+}
